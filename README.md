@@ -17,4 +17,3 @@ How it looks<br />
 How it looks on mobile<br />
 ![Alt text](/screenshots/screenshot-mobile.png?raw=true)
 
-[Blog](http://leeminho.me)
